@@ -1,0 +1,47 @@
+{
+    "python_funkring": {
+        "prefix": "pyfr",
+        "scope": "python",
+        "body": [
+            "# -*- coding: utf-8 -*--",
+            "# © 2017 Funkring.net (Martin Reisenhofer <martin.reisenhofer@funkring.net>)",
+            "# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).",
+            "$0"
+        ]
+    },   
+    "odoo_manifest_funkring": {
+        "prefix": "oman_fr",
+        "scope": "python",
+        "body": [
+            "{",
+            "\t'name': '${1}',",
+            "\t'version': '${2:13.0.1.0.0}',",
+            "\t'summary': '${3}',",
+            "\t'category': '${4}',",
+            "\t'author': 'funkring',",
+            "\t'maintainer': 'funkring',",
+            "\t'website': 'https://github.com/oerp-at',",
+            "\t'license': 'LGPL-3',",
+            "\t'contributors': [",
+            "\t\t'funkring',",
+            "\t],",
+            "\t'depends': [",
+            "\t\t'${6}',",
+            "\t],",
+            "\t'external_dependencies': {",
+            "\t\t'python': [",
+            "\t\t\t'${7}',",
+            "\t\t],",
+            "\t},",
+            "\t'data': [",
+            "\t\t'${8}',",
+            "\t],",
+            "\t'installable': ${9:True},",
+            "\t'auto_install': ${10:False},",
+            "\t'application': ${11:False},",
+            "}",
+            "$0"
+        ],
+        "description": "Create Odoo Manifest (funkring)"
+    }   
+}
