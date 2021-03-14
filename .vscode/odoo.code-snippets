@@ -4,7 +4,7 @@
         "scope": "python",
         "body": [
             "# -*- coding: utf-8 -*--",
-            "# © 2017 Funkring.net (Martin Reisenhofer <martin.reisenhofer@funkring.net>)",
+            "# © Martin Reisenhofer <martin@reisenhofer.org>",
             "# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).",
             "$0"
         ]
@@ -42,6 +42,6 @@
             "}",
             "$0"
         ],
-        "description": "Create Odoo Manifest (funkring)"
+        "description": "Create Odoo Manifest"
     }   
 }
