@@ -1,4 +1,4 @@
 [submodule "odoo"]
 	path = odoo
-	url = https://github.com/odoo/odoo.git
-	branch = 14.0
+	url = https://github.com/oerp-at/odoo.git 
+	branch = oerp-14.0
