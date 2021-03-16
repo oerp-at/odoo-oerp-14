@@ -1,6 +1,6 @@
 {
     "python_funkring": {
-        "prefix": "pyfr",
+        "prefix": "py_mr",
         "scope": "python",
         "body": [
             "# -*- coding: utf-8 -*--",
@@ -9,21 +9,21 @@
             "$0"
         ]
     },   
-    "odoo_manifest_funkring": {
-        "prefix": "oman_fr",
+    "odoo_manifest_mr": {
+        "prefix": "oman_mr",
         "scope": "python",
         "body": [
             "{",
             "\t'name': '${1}',",
-            "\t'version': '${2:13.0.1.0.0}',",
+            "\t'version': '${2:14.0.1.0.0}',",
             "\t'summary': '${3}',",
             "\t'category': '${4}',",
-            "\t'author': 'funkring',",
-            "\t'maintainer': 'funkring',",
+            "\t'author': 'mreisenhofer',",
+            "\t'maintainer': 'mreisenhofer',",
             "\t'website': 'https://github.com/oerp-at',",
             "\t'license': 'LGPL-3',",
             "\t'contributors': [",
-            "\t\t'funkring',",
+            "\t\t'mreisenhofer',",
             "\t],",
             "\t'depends': [",
             "\t\t'${6}',",

@@ -26,3 +26,11 @@
 	path = addons-queue
 	url = https://github.com/oerp-at/addons-queue.git
 	branch = 14.0-oerp
+[submodule "addons-website"]
+	path = addons-website
+	url = https://github.com/oerp-at/addons-website.git 
+	branch = 14.0-oerp
+[submodule "addons-automation"]
+	path = addons-automation
+	url = https://github.com/oerp-at/addons-automation.git
+	branch = 14.0-oerp
