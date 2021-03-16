@@ -1,4 +1,28 @@
 [submodule "odoo"]
 	path = odoo
 	url = https://github.com/oerp-at/odoo.git 
-	branch = oerp-14.0
+	branch = 14.0-oerp
+[submodule "addons-web"]
+	path = addons-web
+	url = https://github.com/oerp-at/addons-web.git
+	branch = 14.0-oerp
+[submodule "addons-server-auth"]
+	path = addons-server-auth
+	url = https://github.com/oerp-at/addons-server-auth.git
+	branch = 14.0-oerp
+[submodule "addons-server-tools"]
+	path = addons-server-tools
+	url = https://github.com/oerp-at/addons-server-tools.git
+	branch = 14.0-oerp
+[submodule "addons-reporting-engine"]
+	path = addons-reporting-engine
+	url = https://github.com/oerp-at/addons-reporting-engine.git 
+	branch = 14.0-oerp
+[submodule "addons-util"]
+	path = addons-util
+	url = https://github.com/oerp-at/addons-util.git 
+	branch = 14.0-oerp
+[submodule "addons-queue"]
+	path = addons-queue
+	url = https://github.com/oerp-at/addons-queue.git
+	branch = 14.0-oerp
