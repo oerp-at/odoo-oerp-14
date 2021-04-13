@@ -34,3 +34,11 @@
 	path = addons-automation
 	url = https://github.com/oerp-at/addons-automation.git
 	branch = 14.0-oerp
+[submodule "addons-social"]
+	path = addons-social
+	url = https://github.com/oerp-at/addons-social.git 
+	branch = 14.0-oerp
+[submodule "addons-server-brand"]
+	path = addons-server-brand
+	url = https://github.com/oerp-at/addons-server-brand.git 
+	branch = 14.0-oerp

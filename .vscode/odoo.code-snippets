@@ -43,5 +43,5 @@
             "$0"
         ],
         "description": "Create Odoo Manifest"
-    }   
+    }
 }
