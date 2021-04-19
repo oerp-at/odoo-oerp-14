@@ -2,7 +2,6 @@
 	path = odoo
 	url = https://github.com/oerp-at/odoo.git 
 	branch = 14.0-oerp
-	shallow = true
 [submodule "addons-web"]
 	path = addons-web
 	url = https://github.com/oerp-at/addons-web.git
