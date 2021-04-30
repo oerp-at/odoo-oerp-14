@@ -42,3 +42,6 @@
 	path = addons-server-brand
 	url = https://github.com/oerp-at/addons-server-brand.git 
 	branch = 14.0-oerp
+[submodule "addons-hr"]
+	path = addons-hr
+	url = https://github.com/OCA/hr.git
