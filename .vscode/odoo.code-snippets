@@ -4,7 +4,7 @@
         "scope": "python",
         "body": [
             "# -*- coding: utf-8 -*--",
-            "# © Martin Reisenhofer <martin@reisenhofer.org>",
+            "# © Martin Reisenhofer <martin@reisenhofer.biz>",
             "# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).",
             "$0"
         ]
@@ -18,13 +18,9 @@
             "\t'version': '${2:14.0.1.0.0}',",
             "\t'summary': '${3}',",
             "\t'category': '${4}',",
-            "\t'author': 'mreisenhofer',",
-            "\t'maintainer': 'mreisenhofer',",
+            "\t'author': 'Martin Reisenhofer',",
             "\t'website': 'https://github.com/oerp-at',",
             "\t'license': 'LGPL-3',",
-            "\t'contributors': [",
-            "\t\t'mreisenhofer',",
-            "\t],",
             "\t'depends': [",
             "\t\t'${6}',",
             "\t],",

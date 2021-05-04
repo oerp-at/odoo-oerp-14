@@ -44,4 +44,5 @@
 	branch = 14.0-oerp
 [submodule "addons-hr"]
 	path = addons-hr
-	url = https://github.com/OCA/hr.git
+	url = https://github.com/oerp-at/addons-hr.git 
+	branch = 14.0-oerp
