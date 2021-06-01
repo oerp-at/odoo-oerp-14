@@ -46,3 +46,7 @@
 	path = addons-hr
 	url = https://github.com/oerp-at/addons-hr.git 
 	branch = 14.0-oerp
+[submodule "addons-dms"]
+	path = addons-dms
+	url = https://github.com/oerp-at/addons-dms.git 
+	branch = 14.0-oerp
